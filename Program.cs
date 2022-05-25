@@ -18,6 +18,7 @@ namespace nst
 
         }
     }
+    //lab2 njfvngfjtunhjfnvjf
 
 
     class Text
